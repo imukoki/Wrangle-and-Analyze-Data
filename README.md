@@ -8,7 +8,7 @@
 
 **Table of contents**
 
-- [Introduction](#Investigation)
+- [Introduction](#Introduction)
 - [Project Details](#Project-Details)
 - [Gathering Data for this Project](#Gathering-Data-for-this-Project)
 - [Assessing Data for this Project](#Assessing-Data-for-this-Project)
